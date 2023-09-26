@@ -2,7 +2,7 @@
 
 
 
-![Showcase Rent Car](https://i.ibb.co/2ywWHVR/showcase-car-five-vercel-app-1.png)
+![Showcase Rent Car](https://i.ibb.co/CPQKnxD/screenshot-nimbusweb-me-2023-09-01-15-26-46.png)
 
 # Tech Stack
 
